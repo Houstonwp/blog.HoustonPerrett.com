@@ -1,3 +1,47 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://blog.houstonp.com"
+DefaultContentLanguage = "en"
+title = "Houston Perrett"
+theme = "beautifulhugo"
+metaDataFormat = "toml"
+pygmentsUseClasses = true
+pygmentCodeFences = true
+#googleAnalytics = "XXX"
+
+[Params]
+  subtitle = "Thoughts on actuarial, insurance, technology, and society."
+ # logo = "img/avatar-icon.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = false
+  readingTime = true
+
+[Author]
+  name = "Houston Perrett"
+  website = "houstonp.com"
+  email = "h@houstonp.com"
+  github = "houstonwp"
+  #gitlab = "username"
+  twitter = "HoustonPerrett"
+  linkedin = "HoustonPerrett"
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 2
+
+[[menu.main]]
+    name = "Home"
+    url = "https://houstonp.com"
+    weight = 1
+
+[[menu.main]]
+    name = "Disclaimer"
+    url = "page/disclaimer"
+    weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3
