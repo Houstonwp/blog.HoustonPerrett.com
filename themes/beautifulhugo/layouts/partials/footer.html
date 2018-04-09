@@ -15,20 +15,6 @@
               </li>
             {{- end -}}
           {{ end }}
-          {{ if .Site.Params.rss }}
-          <li>
-            {{ if .RSSLink }}
-            <a href="{{ .RSSLink }}" title="RSS">
-            {{ else }}
-            <a href="{{ .Site.RSSLink }}" title="RSS">
-            {{ end }}
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {{ end }}
         </ul>
         <p class="credits copyright text-muted">
           {{ if .Site.Author.name }}
@@ -62,30 +48,5 @@
 <script src="{{ "js/jquery.min.js" | absURL }}"></script>
 <script src="{{ "js/bootstrap.min.js" | absURL }}"></script>
 <script src="{{ "js/main.js" | absURL }}"></script>
-{{- if .Site.Params.staticman }}
-<script src="{{ "js/staticman.js" | absURL }}"></script>
-{{- end }}
-{{- if  .Site.Params.useHLJS }}
-<script src="{{ "js/highlight.min.js" | absURL }}"></script>
-<script> hljs.initHighlightingOnLoad(); </script>
-<script> $(document).ready(function() {$("pre.chroma").css("padding","0");}); </script>
-{{- end -}}
 <script> renderMathInElement(document.body); </script>
-<script src="{{ "js/photoswipe.min.js" | absURL }}"></script>
-<script src="{{ "js/photoswipe-ui-default.min.js" | absURL }}"></script>
-<script src="{{ "js/load-photoswipe.js" | absURL }}"></script>
-<!-- Google Custom Search Engine -->
-{{ if .Site.Params.gcse }}
-<script>
-  (function() {
-    var cx = '{{ .Site.Params.gcse }}';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-{{ end }}
 {{- partial "footer_custom.html" . }}

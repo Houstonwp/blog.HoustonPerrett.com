@@ -13,7 +13,6 @@ pygmentCodeFences = true
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
-  rss = false
   comments = false
   readingTime = true
 
@@ -38,7 +37,7 @@ pygmentCodeFences = true
 
 [[menu.main]]
     name = "Disclaimer"
-    url = "page/disclaimer"
+    url = "disclaimer"
     weight = 3
 
 [[menu.main]]
