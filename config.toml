@@ -1,4 +1,4 @@
-baseurl = "https://blog.houstonp.com"
+baseurl = "/"
 DefaultContentLanguage = "en"
 title = "Houston Perrett"
 theme = "beautifulhugo"
