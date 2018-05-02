@@ -41,7 +41,7 @@ A disruptive innovation targets the value chain itself by focusing on a neglecte
 
 > In 1997 Netflix started out as a DVD by mail business. They had a relatively limited collection of back catalog content from a few studios, and in 2007 Netflix pivoted and started internet streaming content. This catered to a specific movie buff and technology literate audience. With an expanding catalog, customer data, and internet streaming, Netflix was able to entice more studios and create their own content. They moved up market and disrupted the entire movie rental industry.
 >
->(_Blockbuster went out of business six years after Netflix introduced streaming_.)
+> (_Blockbuster went out of business six years after Netflix introduced streaming_.)
 
 #### Example 2: Autonomous Cars.
 
@@ -56,9 +56,10 @@ A disruptive innovation targets the value chain itself by focusing on a neglecte
 When looking further at other innovations in the insurance industry with this new lens, we see that a lot of the purported "disruptive" innovations are actually sustaining innovations. The way companies have positioned machine learning, data analytics, artificial intelligence, etc. are as sustaining technologies. They are iterative improvements to the current value chain. They are adding value to their current customers. To their credit, these are important developments and will improve countless areas of the business, but by definition, they are not disruptive.
 
 Professor Christensen argues that the strategy of handling sustaining and disruptive innovation are different. The strategy for sustaining innovations is relatively straight forward:
+
 * Acquiring or partnering with a company who is already developing the innovation.
 * Investing in resources to develop the innovation in house.
 
 This strategy is playing out to a tee in the insurtech space and aligns with the idea of a sustaining innovation.
 
-It's hard to say where disruptive innovation is occurring in the insurance industry. The regulatory framework makes it difficult for startups to _not_ partner with insurers due to capital requirements, lack of open, available data, and a general reluctance for change. When disruption does occur, _and it will_, incumbent insurers will be ill prepared to mitigate the damage it will cause. 
+It's hard to say where disruptive innovation is occurring in the insurance industry. The regulatory framework makes it difficult for startups to _not_ partner with insurers due to capital requirements, lack of open, available data, and a general reluctance for change. When disruption does occur, _and it will_, incumbent insurers will be ill prepared to mitigate the damage it will cause.
