@@ -35,16 +35,26 @@ Both examples are often associated with the term disruption, but as I've explore
 
 ## Disruptive Innovation
 
-A disruptive innovation targets the value chain itself by focusing on a neglected or ignored customer base. These groups of customers aren't profitable for incumbents given their market strategy. The timing of disruption is often misunderstood. It does not have
+A disruptive innovation targets the value chain itself by focusing on a neglected or ignored customer base. These groups of customers aren't profitable for incumbents given their market strategy. The timing of disruption is often misunderstood. It does not have to occur in an instant. Disruption can take many forms and over any amounts of time. The key of a disruptive innovation is improving the product and moving upmarket. By moving upmarket, the disruptive organization is now eating into the incumbents market share. This is the peak of disruption. The incumbent doesn't have the organization or culture to embrace the disruptive innovation. 
 
-#### Example 1: Apple App Store.
+#### Example 1: Netflix.
 
+> In 1997 Netflix started out as a DVD by mail business. They had a relatively limited collection of back catalog content from a few studios. In 2007 Netflix pivoted and started internet streaming content. This catered to a specific movie buff and technology literate audience. With an expanding catalog, customer data, and internet streaming, Netflix was able to entice more studios and even create their own content. They moved up market and disrupted the entire movie rental industry.
 >
+>(_Blockbuster went out of business six years after Netflix introduced streaming_.)
 
 #### Example 2: Autonomous Cars.
 
+> Yes, autonomous cars were listed as a sustaining technology. The value proposition in the case of current car customers hasn't changed. But, when you implement Uber's business model, it changes the paradigm. Now fleets of autonomous cars can usher around consumers instead of needing to purchase a vehicle. The value chain in this scenario has changed. The customer who cannot afford to purchase a vehicle now has easy access to an on demand vehicle to take them wherever they would like. 
 >
+> (_This is fundamentally different from Uber's current business model as essentially a digital platform for an at will taxi service_.)
 
 - - -
 
-When looking further at other innovations in the insurance industry with this new lens
+When looking further at other innovations in the insurance industry with this new lens, we see that a lot of the purported "disruptive" innovations are actually sustaining innovations. The way companies have positioned machine learning, data analytics, artificial intelligence, etc. are as sustaining technologies. They are iterative improvements to the current value chain. They are adding value to their current customers. To their credit, these are important developments and will improve countless areas of the business, but by definition, they are not disruptive.
+
+Professor Christensen argues that the strategy of handling sustaining and disruptive innovation are different. The strategy for sustaining innovations is relatively straight forward:
+* Acquiring or partnering with a company who is already developing the innovation.
+* Investing in resources to develop the innovation in house.
+
+If you look at the insurtech industry, you can see this strategy playing out and aligns with the idea of a sustaining innovation.
