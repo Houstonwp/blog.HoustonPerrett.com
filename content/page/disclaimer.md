@@ -10,9 +10,3 @@ This is a personal blog. Any views or opinions represented in this blog are pers
 Any views or opinions are not intended to malign any organization, company, or individual.
 
 All content provided on this blog is for informational purposes only. I make no representations as to the accuracy or completeness of any information on this site or found by following any link on this site.
-
-I will not be liable for any errors or omissions in this information nor for the availability of this information. I will not be liable for any losses, injuries, or damages from the display or use of this information.
-
-### Downloadable Files
-
-Any downloadable file, including but not limited to pdfs, docs, xlsx, fsx, is provided at the user’s own risk. I will not be liable for any losses, injuries, or damages resulting from a corrupted or damaged file.
