@@ -1,5 +1,5 @@
 ---
-title: Newsletter \# 1
+title: Newsletter 1
 date: 2019-11-03
 tags: ["newsletter"]
 ---
