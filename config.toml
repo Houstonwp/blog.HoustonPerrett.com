@@ -12,16 +12,15 @@ googleAnalytics = ""
  # logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
-  commit = false
+  commit = true
   comments = false
-  readingTime = true
+  readingTime = false
 
 [Author]
   name = "Houston Perrett"
-  website = "houstonp.com"
+  website = "https://houstonp.com"
   email = "hp@houstonperrett.com"
   github = "houstonwp"
-  #gitlab = "username"
   twitter = "HoustonPerrett"
   linkedin = "HoustonPerrett"
 
