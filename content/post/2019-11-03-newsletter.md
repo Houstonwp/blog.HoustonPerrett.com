@@ -1,9 +1,10 @@
 ---
 title: Newsletter #1
 date: 2019-11-03
+tags: ["newsletter"]
 ---
 
-## Why a newsletter?
+## Why a Newsletter?
 
 I've been contemplating publishing a newsletter for some time now. I started sharing links here or there to one or two individuals, but it has grown to a larger and larger group of people. It's been difficult to remember who I've sent what and how to decide what to send who. It's come to this: sharing everything I've found interesting over the last week.
 
