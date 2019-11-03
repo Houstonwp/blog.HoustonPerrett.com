@@ -1,5 +1,5 @@
 ---
-title: Newsletter /#1
+title: Newsletter #1
 date: 2019-11-03
 ---
 
@@ -11,27 +11,27 @@ I've been contemplating publishing a newsletter for some time now. I started sha
 
 ### Books
 
-[ReWork by Jason Fried and David Heinemeier Hansson](https://smile.amazon.com/Rework-Jason-Fried/dp/0307463745)
-Jason and David provided candid advice to people looking to build a startup or small business. It may seem like a niche read, but there is a lot to learn from startup founders. I found myself highlighting paragraphs upon paragraphs of advice and analogies that apply to any type of work. It's even a reason why I started this newsletter.
+[ReWork by Jason Fried and David Heinemeier Hansson](https://smile.amazon.com/Rework-Jason-Fried/dp/0307463745) - Jason and David provided candid advice to people looking to build a startup or small business. It may seem like a niche read, but there is a lot to learn from startup founders. I found myself highlighting paragraphs upon paragraphs of advice and analogies that apply to any type of work. It's even a reason why I started this newsletter.
 
 Some notable quotes:
 
 ![When you treat people like children](images/rework_1.jpg)
+
 ![The most common excuse](images/rework_2.jpg)
+
 ![The worst interruptions](images/rework_3.jpg)
+
 ![But what if](images/rework_4.jpg)
 
-[Zero to One by Peter Thiel](https://smile.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
-Another book on startups. Peter knows what he's talking about. Of all the books I've read on startups, this is one of the best.
+[Zero to One by Peter Thiel](https://smile.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) - Another book on startups. Peter knows what he's talking about. Of all the books I've read on startups, this is one of the best.
 
-[The Order of Time by Carlo Rovelli](https://smile.amazon.com/Order-Time-Carlo-Rovelli-ebook/dp/B07638M8JL)
-I'm still digesting everything in this. if you're at all interested in physics and the concept of time, you should read this book.
+[The Order of Time by Carlo Rovelli](https://smile.amazon.com/Order-Time-Carlo-Rovelli-ebook/dp/B07638M8JL) - I'm still digesting everything in this. if you're at all interested in physics and the concept of time, you should read this book.
 
-[The Fifth Risk by Michael Lewis](https://smile.amazon.com/Fifth-Risk-Michael-Lewis-ebook/dp/B07FFCMSCX)
-How can you say no to a book by Michael Lewis about risk? This book was eye opening and depressing. The federal government does so much for individuals in America, and you would never know it.
+[The Fifth Risk by Michael Lewis](https://smile.amazon.com/Fifth-Risk-Michael-Lewis-ebook/dp/B07FFCMSCX) - How can you say no to a book by Michael Lewis about risk? This book was eye opening and depressing. The federal government does so much for individuals in America, and you would never know it.
 
-[The Big Short by Michael Lewis](https://smile.amazon.com/Big-Short-Inside-Doomsday-Machine-ebook/dp/B003LSTK8G)
-I'm impressed at how well the movie brought to life the story written by Michael. I've read about the financial crisis and heard first hand accounts of it, but this is the best and most infuriating of all of them.
+[The Big Short by Michael Lewis](https://smile.amazon.com/Big-Short-Inside-Doomsday-Machine-ebook/dp/B003LSTK8G) - I'm impressed at how well the movie brought to life the story written by Michael. I've read about the financial crisis and heard first hand accounts of it, but this is the best and most infuriating of all of them.
+
+I don't usually power through five books this fast, but these were all enjoyable reads.
 
 ### Podcasts
 
@@ -53,7 +53,7 @@ Outside of bingeing [Bon Appétit](https://www.youtube.com/channel/UCbpMy0Fg74eX
 
 [Mark Blyth - A Brief History of How We Got Here and Why](https://www.youtube.com/watch?v=tJoe_daP0DE)
 
-I'd like to spend some time over the coming weeks digging in to some of Mark's claims. I don't know enough to make a decision on whether his claims truly make sense, but I have to give him credit on a thought provoking talk. If anyone has related material that goes deeper into the details, I'd appreciate the link.
+I'd like to spend some time over the coming weeks digging in to some of Mark's claims. I don't know enough to make a decision on whether his claims make sense, but I have to give him credit on a thought provoking talk. If anyone has related material that goes deeper into the details, I'd appreciate the link.
 
 ### Articles
 
@@ -71,9 +71,11 @@ I'd like to spend some time over the coming weeks digging in to some of Mark's c
 
 [Apple 2019 10-K](https://s2.q4cdn.com/470004039/files/doc_financials/2019/ar/_10-K-2019-(As-Filed).pdf) - It is shocking how quickly the growth of the iPhone has decayed -- a 14% decline in net sales year-over-year. Services have grown to such a larger portion of Apple's revenue that I wonder how much more Apple can milk out of their die hard customer base.
 
-[Please Stop Explaining Black Box Models for High-Stakes Decisions by Cynthia Rudin](https://www.arxiv-vanity.com/papers/1811.10154/) - I could not agree more with the paper's premise: "Black box machine learning models are currently being used for high stakes decision-making throughout society, causing problems throughout healthcare, criminal justice, and in other domains. People have hoped that creating methods for explaining these black box models will alleviate some of these problems, but trying to explain black box models, rather than creating models that are interpretable in the first place, is likely to perpetuate bad practices and can potentially cause catastrophic harm to society. There is a way forward – it is to design models that are inherently interpretable."
+[Please Stop Explaining Black Box Models for High-Stakes Decisions by Cynthia Rudin](https://www.arxiv-vanity.com/papers/1811.10154/) - I could not agree more with the paper's premise: 
+> "Black box machine learning models are currently being used for high stakes decision-making throughout society, causing problems throughout healthcare, criminal justice, and in other domains. People have hoped that creating methods for explaining these black box models will alleviate some of these problems, but trying to explain black box models, rather than creating models that are interpretable in the first place, is likely to perpetuate bad practices and can potentially cause catastrophic harm to society. There is a way forward – it is to design models that are inherently interpretable."
 
-[GDP: A Digital Remix](https://think.ing.com/uploads/reports/191021_GDP_digital_remix_24_oct_release.pdf) - The biggest takeaway from this report by ING: "On conservative assumptions, we believe official data understates US GDP growth by 0.75% per annum and overstates inflation by 0.4% due to inadequate measurement of the digital economy and the exclusion of investment in certain intangibles."
+[GDP: A Digital Remix](https://think.ing.com/uploads/reports/191021_GDP_digital_remix_24_oct_release.pdf) - The biggest takeaway from this report by ING: 
+> "On conservative assumptions, we believe official data understates US GDP growth by 0.75% per annum and overstates inflation by 0.4% due to inadequate measurement of the digital economy and the exclusion of investment in certain intangibles."
 
 [Buffett's Alpha](http://docs.lhpedersen.com/BuffettsAlpha.pdf) - It doesn't surprise me that Buffett's stock picking and not his affect on management is the largest source of alpha. He is the best value investor in the world. You don't need to drastically change management like a 3M when you're that good at picking value.
 
