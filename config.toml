@@ -12,7 +12,7 @@ googleAnalytics = ""
  # logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
-  commit = true
+  commit = false
   comments = false
   readingTime = false
 
@@ -47,4 +47,4 @@ googleAnalytics = ""
 [[menu.main]]
     name = "Subscribe"
     url = "subscribe"
-    weight = 3
+    weight = 4
