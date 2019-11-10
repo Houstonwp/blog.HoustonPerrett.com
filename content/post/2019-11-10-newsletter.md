@@ -102,7 +102,7 @@ You really should binge all of [Bon Appétit](https://www.youtube.com/channel/UC
 
 [Netflix Culture](https://jobs.netflix.com/culture) - Company culture is an important factor in determining whether to work somewhere or how successful an organization can be. Netflix lays out what it values and isn't afraid to say you might not be a good fit. I like that.
 
-[Uber Posts $1.2 Billion Loss as Growth Improves](https://www.nytimes.com/2019/11/04/technology/uber-earnings-loss.html) and [Uber Announces Results for Third Quarter 2019](https://investor.uber.com/news-events/news/press-release-details/2019/Uber-Announces-Results-for-Third-Quarter-2019/default.aspx) - I'm always interested how investors react to earnings results and how a company decides to spin its story. I'm bearish on Uber, but it does have some similarities with early Amazon. I wonder though how impatient investors will be will massive losses like this continuing.
+[Uber Posts $1.2 Billion Loss as Growth Improves](https://www.nytimes.com/2019/11/04/technology/uber-earnings-loss.html) and [Uber Announces Results for Third Quarter 2019](https://investor.uber.com/news-events/news/press-release-details/2019/Uber-Announces-Results-for-Third-Quarter-2019/default.aspx) - I'm always interested how investors react to earnings results and how a company decides to spin its story. I'm bearish on Uber, but it does have some similarities with early Amazon. I wonder though how impatient investors will be with massive losses like this continuing.
 
 ![SoftwareUpdates](https://imgs.xkcd.com/comics/software_updates.png)
 
