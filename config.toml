@@ -48,3 +48,12 @@ googleAnalytics = ""
     name = "Subscribe"
     url = "subscribe"
     weight = 4
+
+[outputs]
+home = [ "RSS", "HTML"]
+section  = ["HTML"]
+
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "rss"

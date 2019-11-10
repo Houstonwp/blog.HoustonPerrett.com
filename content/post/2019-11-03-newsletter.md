@@ -73,9 +73,11 @@ I'd like to spend some time over the coming weeks digging in to some of Mark's c
 [Apple 2019 10-K](https://s2.q4cdn.com/470004039/files/doc_financials/2019/ar/_10-K-2019-(As-Filed).pdf) - It is shocking how quickly the growth of the iPhone has decayed -- a 14% decline in net sales year-over-year. Services have grown to such a larger portion of Apple's revenue that I wonder how much more Apple can milk out of their die hard customer base.
 
 [Please Stop Explaining Black Box Models for High-Stakes Decisions by Cynthia Rudin](https://www.arxiv-vanity.com/papers/1811.10154/) - I could not agree more with the paper's premise: 
+
 > "Black box machine learning models are currently being used for high stakes decision-making throughout society, causing problems throughout healthcare, criminal justice, and in other domains. People have hoped that creating methods for explaining these black box models will alleviate some of these problems, but trying to explain black box models, rather than creating models that are interpretable in the first place, is likely to perpetuate bad practices and can potentially cause catastrophic harm to society. There is a way forward – it is to design models that are inherently interpretable."
 
 [GDP: A Digital Remix](https://think.ing.com/uploads/reports/191021_GDP_digital_remix_24_oct_release.pdf) - The biggest takeaway from this report by ING: 
+
 > "On conservative assumptions, we believe official data understates US GDP growth by 0.75% per annum and overstates inflation by 0.4% due to inadequate measurement of the digital economy and the exclusion of investment in certain intangibles."
 
 [Buffett's Alpha](http://docs.lhpedersen.com/BuffettsAlpha.pdf) - It doesn't surprise me that Buffett's stock picking and not his affect on management is the largest source of alpha. He is the best value investor in the world. You don't need to drastically change management like a 3M when you're that good at picking value.
@@ -86,4 +88,4 @@ I'd like to spend some time over the coming weeks digging in to some of Mark's c
 
 [So You Think You Have a Power Law — Well Isn't That Special?](http://bactra.org/weblog/491.html) - Power Laws come up all the time in actuarial work. I haven't read the paper the article is referencing, but the big takeaway for me was that sometimes are assumptions are flat out wrong.
 
-[SASE panel](https://idlewords.com/talks/sase_panel.htm) and [The Moral Economy of Technology](https://kieranhealy.org/blog/archives/2016/06/28/sase-panel-on-the-moral-economy-of-technology/)- I've been trying to formulate an opinion on technology and society. It's something I'm conflicted about. I don't think everyone being luddites is the answer, but I do see the negative consequences of technology can create.
+[SASE panel](https://idlewords.com/talks/sase_panel.htm) and [The Moral Economy of Technology](https://kieranhealy.org/blog/archives/2016/06/28/sase-panel-on-the-moral-economy-of-technology/)- I've been trying to formulate an opinion on technology and society. It's something I'm conflicted about. I don't think everyone being luddites is the answer, but I do see the negative consequences technology can create.
