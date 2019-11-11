@@ -76,7 +76,7 @@ You really should binge all of [Bon Appétit](https://www.youtube.com/channel/UC
 
 [What Shape Is the Universe? A New Study Suggests We’ve Got It All Wrong](https://www.quantamagazine.org/what-shape-is-the-universe-closed-or-flat-20191104/) - There is so much to still figure out about the universe.
 
-[How Scientists Got Climate Change So Wrong](https://www.nytimes.com/2019/11/08/opinion/sunday/science-climate-change.html) - Hint: it's worse than they have been predicting. This opinion piece delves a little in to the economic impact of climate change. The economics are harder to argument against for those that oppose doing anything to fight climate change.
+[How Scientists Got Climate Change So Wrong](https://www.nytimes.com/2019/11/08/opinion/sunday/science-climate-change.html) - Hint: it's worse than they have been predicting. This opinion piece delves a little in to the economic impact of climate change. The economics are harder to argue against for those that oppose doing anything to fight climate change.
 
 [Tech and Liberty](https://stratechery.com/2019/tech-and-liberty/) - This piece by Ben Thompson goes in to the first amendment, technology companies, and the implications of telling a company to censor things. I'd read this before listening to the accompanying Exponent podcast above.
 
