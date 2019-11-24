@@ -5,7 +5,7 @@ theme = "beautifulhugo"
 metaDataFormat = "toml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
-googleAnalytics = ""
+googleAnalytics = "UA-67480960-1"
 
 [Params]
   subtitle = "Thoughts on actuarial, insurance, technology, and society."
