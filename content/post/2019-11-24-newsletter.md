@@ -39,13 +39,21 @@ Some extraordinary episodes from this week:
 I've been making my way through Rework's backlog of episodes:
 
 [SELL YOUR BY-PRODUCTS](https://rework.fm/sell-your-by-products/)
+
 [WORKAHOLICS AREN’T HEROES](https://rework.fm/workaholics-arent-heroes/)
+
 [PICK A FIGHT (ON TWITTER)](https://rework.fm/pick-a-fight/)
+
 [SAY NO](https://rework.fm/say-no/)
+
 [TAKE A STAND](https://rework.fm/take-a-stand/)
+
 [THE MORAL ABC](https://rework.fm/moral-abc/)
+
 [JASON FRIED AT INDUSTRY 2017](https://rework.fm/jason-fried-industry-2017/)
+
 [CAN YOU SELL WATER? PART 1](https://rework.fm/can-you-sell-water-1/)
+
 [SPENDING IN THE CLOUDS](https://rework.fm/spending-in-the-clouds/)
 
 ### Videos
