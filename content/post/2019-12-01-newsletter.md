@@ -84,7 +84,7 @@ Some extraordinary episodes from this week:
 
 [The First Non-Bullshit Book About Culture I’ve Read](https://zwischenzugs.com/2019/11/27/the-first-non-bullshit-book-about-culture-ive-read/) - <i>Turn the Ship Around</i> instantly went on my list after reading this summary.
 
-[My Management Lessons from Three Failed Startups, Google, Apple, Dropbox, and Twitter]() - Kim Scott wrote the book <i>Radical Candor</i>, and this article summarizes a lot of that content. I use her "ruinous empathy" phrase often. If you like this article, I'd recommend going through all of her book.
+[My Management Lessons from Three Failed Startups, Google, Apple, Dropbox, and Twitter](https://getpocket.com/explore/item/my-management-lessons-from-three-failed-startups-google-apple-dropbox-and-twitter) - Kim Scott wrote the book <i>Radical Candor</i>, and this article summarizes a lot of that content. I use her "ruinous empathy" phrase often. If you like this article, I'd recommend going through all of her book.
 
 [Want Better Forecasting? Silence the Noise](https://knowledge.wharton.upenn.edu/article/want-better-forecasting-silence-the-noise/) - A lot of content packed into this article on forecasting. I do still have major concerns about bias in modeling, but it's interesting to see how big of an impact noise has on predictions.
 
