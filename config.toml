@@ -7,6 +7,9 @@ pygmentsUseClasses = true
 pygmentCodeFences = true
 googleAnalytics = "UA-67480960-1"
 
+[services.rss]
+  limit = 1
+
 [Params]
   subtitle = "Thoughts on actuarial, insurance, technology, and society."
  # logo = "img/avatar-icon.png"
