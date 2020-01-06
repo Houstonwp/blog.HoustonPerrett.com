@@ -4,7 +4,6 @@ date: 2020-01-05
 tags: ["newsletter"]
 ---
 
-## Updates
 This has been a slow week. The holidays mean spending time with family, and year end means work isn't as balanced as usual. Nevertheless I did end up getting through one book and some quality podcasts and articles. Take some time to sign up for the [Harvard Data Science Review](https://hdsr.mitpress.mit.edu/). It's free, and the articles are quality. 
 
 Have a great week.
