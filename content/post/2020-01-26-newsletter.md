@@ -52,6 +52,10 @@ Some extraordinary episodes from this week:
 
 ## Articles
 
+[Clayton Christensen, guru of disruptive innovation and Latter-day Saint leader, dies at 67](https://www.deseret.com/faith/2020/1/24/21079323/clayton-christensen-harvard-disruptive-innovation-lds-mormon) - It's very sad to see Clayton's passing. If you haven't read <i>The Innovator's Dilemma</i> yet, you should.
+
+[The Essential Clayton Christensen Articles](https://hbr.org/2020/01/the-essential-clayton-christensen-articles) - HBR put together some of his top articles. All are valuable and worth your time.
+
 [My guiding principles after 20 years of programming](https://medium.com/@alexewerlof/my-guiding-principles-after-20-years-of-programming-a087dc55596c) - His guiding principles are obviously related to programming, but a lot can be said about generalizing these principles to the actuarial domain.
 
 I went down a John D. Cook rabbit hole. He has a few short post on models and complexity that are worthwhile. Actuaries often fall into this anti-pattern of complexity.
@@ -66,8 +70,6 @@ I've mentioned before the importance of actuaries to understand [floating-point 
 - [Floating-point arithmetic may give inaccurate results in Excel](https://docs.microsoft.com/en-us/office/troubleshoot/excel/floating-point-arithmetic-inaccurate-result)
 - [decimal64 floating-point format](https://en.m.wikipedia.org/wiki/Decimal64_floating-point_format)
 - [Accurate Differences of Products with Kahan's Algorithm](https://pharr.org/matt/blog/2019/11/03/difference-of-floats.html)
-
-[Clayton Christensen, guru of disruptive innovation and Latter-day Saint leader, dies at 67](https://www.deseret.com/faith/2020/1/24/21079323/clayton-christensen-harvard-disruptive-innovation-lds-mormon) - It's very sad to see Clayton's passing. If you haven't read <i>The Innovator's Dilemma</i> yet, you should.
 
 [Why you might be more pessimistic when things are actually going well](https://www.cbc.ca/life/wellness/why-you-might-be-more-pessimistic-when-things-are-actually-going-well-1.4761465) - I tend to think of this as in terms of relativism. When things are going well and something negative happens, the delta is larger than if something positive happens.
 
