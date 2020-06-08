@@ -16,10 +16,12 @@ Houston
 
 ## Links
 
-[Dust in the Light](https://stratechery.com/2020/dust-in-the-light/)
+A short list of items for you to read, listen and watch:
 
-[Speech and Systems](https://exponent.fm/episode-186-speech-and-systems/)
+[Dust in the Light](https://stratechery.com/2020/dust-in-the-light/) - Article by Stratechery
 
-[What We Can't Reveal We Can't Heal](https://a16z.com/2020/06/03/what-we-cant-reveal-we-cant-heal-transparency-technology-media/)
+[Speech and Systems](https://exponent.fm/episode-186-speech-and-systems/) - Podcast by Exponent
 
-[13th](https://www.netflix.com/title/80091741)
+[What We Can't Reveal We Can't Heal](https://a16z.com/2020/06/03/what-we-cant-reveal-we-cant-heal-transparency-technology-media/) - Podcast by a16z
+
+[13th](https://www.netflix.com/title/80091741) - Netflix Documentary
